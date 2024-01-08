@@ -14,7 +14,7 @@ To support the project for free, you can star the project.
 
 ## Repository Information
 
-[REPONUN NE OLDUĞU AÇIKLANACAK]
+This repository contains four different simple SQL database backups designed to meet the needs of users. These backups have been carefully crafted for use in various industries and projects. Each database backup is specifically designed to facilitate users' tasks in various areas such as data management, reporting, or application development.
 
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
@@ -22,7 +22,7 @@ To support the project for free, you can star the project.
 
 ## Usage Information
 
-[KULLANIM BİLGİSİ VERİLECEK]
+This repository provides users with a resource that they can flexibly edit and use in their own projects, derive inspiration from, and utilize for educational purposes. Each database has been carefully designed to accommodate different needs, allowing users a wide range of freedom for customization and adaptation.
 
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
@@ -42,7 +42,7 @@ To support the project for free, you can star the project.
   
   #### Download Information
 
-[INDIRME BİLGİSİ VERİLECEK]
+You can download the relevant database by clicking on the link or button below.
 
 [v Click For Download To Database v](INDIRME LINKI)
 
@@ -66,7 +66,7 @@ To support the project for free, you can star the project.
   
   #### Download Information
   
- [INDIRME BİLGİSİ VERİLECEK]
+You can download the relevant database by clicking on the link or button below.
 
 [v Click For Download To Database v](INDIRME LINKI)
 
@@ -90,7 +90,7 @@ To support the project for free, you can star the project.
 
 #### Download Information
 
-[INDIRME BİLGİSİ VERİLECEK]
+You can download the relevant database by clicking on the link or button below.
 
 [v Click For Download To Database v](INDIRME LINKI)
 
@@ -114,7 +114,7 @@ To support the project for free, you can star the project.
 
 #### Download Information
 
-[INDIRME BİLGİSİ VERİLECEK]
+You can download the relevant database by clicking on the link or button below.
 
 [v Click For Download To Database v](INDIRME LINKI)
 
