@@ -44,10 +44,10 @@ This repository provides users with a resource that they can flexibly edit and u
 
 You can download the relevant database by clicking on the link or button below.
 
-[v Click For Download To Database v](INDIRME LINKI)
+[v Click For Download To Database v](https://github.com/beydah/SQL-and-Database/raw/main/DATABASE/Bank_DB.bak)
 
   <div>
-    <a href="INDIRME LINKI">
+    <a href="https://github.com/beydah/SQL-and-Database/raw/main/DATABASE/Bank_DB.bak">
         <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
     </a>
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
@@ -68,10 +68,10 @@ You can download the relevant database by clicking on the link or button below.
   
 You can download the relevant database by clicking on the link or button below.
 
-[v Click For Download To Database v](INDIRME LINKI)
+[v Click For Download To Database v](https://github.com/beydah/SQL-and-Database/raw/main/DATABASE/Hospital_DB.bak)
 
   <div>
-    <a href="INDIRME LINKI">
+    <a href="https://github.com/beydah/SQL-and-Database/raw/main/DATABASE/Hospital_DB.bak">
         <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
     </a>
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
@@ -92,10 +92,10 @@ You can download the relevant database by clicking on the link or button below.
 
 You can download the relevant database by clicking on the link or button below.
 
-[v Click For Download To Database v](INDIRME LINKI)
+[v Click For Download To Database v](https://github.com/beydah/SQL-and-Database/raw/main/DATABASE/University_DB.bak)
 
   <div>
-    <a href="INDIRME LINKI">
+    <a href="https://github.com/beydah/SQL-and-Database/raw/main/DATABASE/University_DB.bak">
         <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
     </a>
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
@@ -116,10 +116,10 @@ You can download the relevant database by clicking on the link or button below.
 
 You can download the relevant database by clicking on the link or button below.
 
-[v Click For Download To Database v](INDIRME LINKI)
+[v Click For Download To Database v](https://github.com/beydah/SQL-and-Database/raw/main/DATABASE/Hotel_DB.bak)
 
   <div>
-    <a href="INDIRME LINKI">
+    <a href="https://github.com/beydah/SQL-and-Database/raw/main/DATABASE/Hotel_DB.bak">
         <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
     </a>
   </div>   
