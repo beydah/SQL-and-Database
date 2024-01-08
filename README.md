@@ -1,4 +1,4 @@
-# SQL-and-Database
+# 4 Basic Database Template
 
 ## Developer Information
 
@@ -13,6 +13,7 @@ To support the project for free, you can star the project.
 </div>
 
 ## Repository Information
+
 [REPONUN NE OLDUĞU AÇIKLANACAK]
 
 <div style="text-align:center;">
@@ -21,7 +22,7 @@ To support the project for free, you can star the project.
 
 ## Usage Information
 
-If you find these algorithms useful, feel free to utilize them according to your needs. You are welcome to enhance, modify, or use them as valuable learning materials. Adapt them to suit your requirements and learning objectives without any restrictions.
+[KULLANIM BİLGİSİ VERİLECEK]
 
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
@@ -30,92 +31,97 @@ If you find these algorithms useful, feel free to utilize them according to your
 ## Solutions Inside the File
 
 <details>
-  <summary><h3>University DB</h3></summary>
+  <summary><h3>Bank DB Features</h3></summary>
     <ol>
-    <li>Customer TB</li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Address Information (Addresses) and Customers</li>
+    <li>Card Information and Card Transactions</li>
+    <li>Contact Information and Customers</li>
+    <li>Authorized Users and Customers</li>
     <li>Other...</li>
   </ol>
   
   ## Download Information
-  
-  [v Click For Download To Cpp and Game v](https:/main.zip)
+
+[INDIRME BİLGİSİ VERİLECEK]
+
+[v Click For Download To Database v](INDIRME LINKI)
 
   <div>
-    <a href="https://github.com/beydah/Cpp-and-Game/archive/refs/heads/main.zip">
+    <a href="INDIRME LINKI">
         <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
     </a>
   </div>  
 </details>
 
 <details>
-  <summary><h3>University DB</h3></summary>
+  <summary><h3>Hospital DB Features</h3></summary>
     <ol>
-    <li>Customer TB</li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Patient Management</li>
+    <li>Doctor Management</li>
+    <li>Appointment Tracking</li>
+    <li>Medical Records</li>
     <li>Other...</li>
   </ol>
   
   ## Download Information
   
-  [v Click For Download To Cpp and Game v](https:/main.zip)
+ [INDIRME BİLGİSİ VERİLECEK]
+
+[v Click For Download To Database v](INDIRME LINKI)
 
   <div>
-    <a href="https://github.com/beydah/Cpp-and-Game/archive/refs/heads/main.zip">
+    <a href="INDIRME LINKI">
         <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
     </a>
-  </div>
-  
+  </div>    
 </details>
 
 <details>
-  <summary><h3>University DB</h3></summary>
+  <summary><h3>University DB Features</h3></summary>
     <ol>
-    <li>Customer TB</li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Student Management</li>
+    <li>Faculty Member Management</li>
+    <li>Course Record Tracking</li>
+    <li>Exam Records</li>
     <li>Other...</li>
   </ol>
 
-  ## Download Information
-  
-  [v Click For Download To Cpp and Game v](https:/main.zip)
+## Download Information
+
+[INDIRME BİLGİSİ VERİLECEK]
+
+[v Click For Download To Database v](INDIRME LINKI)
 
   <div>
-    <a href="https://github.com/beydah/Cpp-and-Game/archive/refs/heads/main.zip">
-        <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
-    </a>
-  </div>
-  
-</details>
-
-<details>
-  <summary><h3>University DB</h3></summary>
-    <ol>
-    <li>Customer TB</li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li>Other...</li>
-  </ol>
-
-  ## Download Information
-  
-  [v Click For Download To Cpp and Game v](https:/main.zip)
-
-  <div>
-    <a href="https://github.com/beydah/Cpp-and-Game/archive/refs/heads/main.zip">
+    <a href="INDIRME LINKI">
         <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
     </a>
   </div>  
+</details>
+
+<details>
+  <summary><h3>Hotel DB Features</h3></summary>
+    <ol>
+    <li>Guest Management</li>
+    <li>Staff Management</li>
+    <li>Room Record Tracking</li>
+    <li>Reservation Records</li>
+    <li>Other...</li>
+  </ol>
+
+## Download Information
+
+[INDIRME BİLGİSİ VERİLECEK]
+
+[v Click For Download To Database v](INDIRME LINKI)
+
+  <div>
+    <a href="INDIRME LINKI">
+        <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
+    </a>
+  </div>   
 </details>
 
 <div style="text-align:center;">
     <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
 </div>
-
