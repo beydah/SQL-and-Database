@@ -122,6 +122,5 @@ To support the project for free, you can star the project.
     <a href="INDIRME LINKI">
         <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_focus.png" height="50">
     </a>
-    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
   </div>   
 </details>
