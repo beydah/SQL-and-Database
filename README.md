@@ -124,3 +124,11 @@ You can download the relevant database by clicking on the link or button below.
     </a>
   </div>   
 </details>
+
+<div style="text-align:center;">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
+</div>
+
+## Terms of Use
+
+The Basic Bank Database Project is licensed under the [GNU General Public License (GPL)](https://github.com/beydah/BankDB-OpenSRC/blob/main/LICENSE). For more information, please refer to the [license text](https://github.com/beydah/BankDB-OpenSRC/blob/main/LICENSE).
