@@ -40,7 +40,7 @@ To support the project for free, you can star the project.
     <li>Other...</li>
   </ol>
   
-  ### Download Information
+  #### Download Information
 
 [INDIRME BİLGİSİ VERİLECEK]
 
@@ -63,7 +63,7 @@ To support the project for free, you can star the project.
     <li>Other...</li>
   </ol>
   
-  ### Download Information
+  #### Download Information
   
  [INDIRME BİLGİSİ VERİLECEK]
 
@@ -86,7 +86,7 @@ To support the project for free, you can star the project.
     <li>Other...</li>
   </ol>
 
-### Download Information
+#### Download Information
 
 [INDIRME BİLGİSİ VERİLECEK]
 
@@ -109,7 +109,7 @@ To support the project for free, you can star the project.
     <li>Other...</li>
   </ol>
 
-### Download Information
+#### Download Information
 
 [INDIRME BİLGİSİ VERİLECEK]
 
